@@ -21,8 +21,8 @@ A structured collection of algorithms, operating system primitives, memory manag
 
 ## Author
 **Sugun Preetham Devabarkina**
-* Alumnus of **Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)**
-* Software Engineer, Ex-**Deloitte**
+* Alumnus of **Sardar Vallabhbhai National Institute of Technology (SVNIT Surat)** (M.Tech & B.Tech CSE)
+* Software Engineer — Data & AI / Machine Learning, Ex-**Deloitte**
 
 // Updated: 2024-06-18 - docs: comprehensive complexity analysis and architecture guide
 
